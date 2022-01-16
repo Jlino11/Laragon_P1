@@ -16,6 +16,7 @@
        <a href="{{ route('foto') }}" class="btn btn-primary">Fotos</a>
        <a href="{{ route('blog') }}" class="btn btn-primary">Blog</a>
        <a href="{{ route('nosotros') }}" class="btn btn-primary">Nosotros</a>
+       <a href="{{ route('inicio') }}" class="btn btn-primary">Inicio</a>
     </div>
 
     <div class="container">
@@ -23,8 +24,11 @@
     </div>
     
     <div>
-        Footer
+        
     </div>
+    <footer class="mt-4">
+      <h1>footer</h1>
+    </footer>
 
     <!-- Optional JavaScript; choose one of the two! -->
 
